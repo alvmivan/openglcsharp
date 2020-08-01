@@ -1,0 +1,12 @@
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.csprojAssemblyReference.cache
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.exe
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.pdb
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\OpenGL.Net.dll
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\Tao.FreeGlut.dll
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\OpenGL.Net.pdb
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\OpenGL.Net.xml
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.csproj.CopyComplete
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.exe
+C:\Users\alvmi\Documents\GitHub\openglcsharp\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.pdb
