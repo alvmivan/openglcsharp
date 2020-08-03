@@ -33,14 +33,14 @@
     </PropertyGroup>
     <ItemGroup>
         <Reference Include="OpenGL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>libs\OpenGL.dll</HintPath>
+          <HintPath>bin\Debug\OpenGL.dll</HintPath>
         </Reference>
         <Reference Include="System" />
         <Reference Include="System.Core" />
         <Reference Include="System.Data" />
         <Reference Include="System.Xml" />
         <Reference Include="Tao.FreeGlut, Version=2.4.0.2, Culture=neutral, PublicKeyToken=6e602a6ad6c0d06d">
-          <HintPath>libs\Tao.FreeGlut.dll</HintPath>
+          <HintPath>bin\Debug\Tao.FreeGlut.dll</HintPath>
         </Reference>
     </ItemGroup>
     <ItemGroup>
