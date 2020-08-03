@@ -1,1 +1,1 @@
-# Sharppie is a Tinny Game Engine Using C#
+# Sharppie is a Tiny Game Engine Using C#
