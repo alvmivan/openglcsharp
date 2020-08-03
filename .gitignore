@@ -1,2 +1,7 @@
 ﻿TestOpenGl/TestOpenGL/bin*
 TestOpenGl/TestOpenGL/obj*
+TestOpenGl/TestOpenGL/obj/Debug/TestOpenGL.pdb
+*.exe
+*.pdb
+*.cache
+TestOpenGl/TestOpenGL/obj/Debug/TestOpenGL.csproj.FileListAbsolute.txt

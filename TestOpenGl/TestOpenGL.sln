@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOpenGL", "TestOpenGL\TestOpenGL.csproj", "{FEBEABF0-772C-4820-A8C7-33D75ED3A462}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLGraphicApi", "OpenGLGraphicApi\OpenGLGraphicApi.csproj", "{FEBEABF0-772C-4820-A8C7-33D75ED3A462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineDomain", "EngineDomain\EngineDomain.csproj", "{CCAD623E-BEC2-4512-A21E-7BB75A02EF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityBridge", "UnityBridge\UnityBridge.csproj", "{5D170427-EC53-4379-B963-DBBFA3A72F5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{FEBEABF0-772C-4820-A8C7-33D75ED3A462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBEABF0-772C-4820-A8C7-33D75ED3A462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBEABF0-772C-4820-A8C7-33D75ED3A462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAD623E-BEC2-4512-A21E-7BB75A02EF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAD623E-BEC2-4512-A21E-7BB75A02EF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAD623E-BEC2-4512-A21E-7BB75A02EF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAD623E-BEC2-4512-A21E-7BB75A02EF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D170427-EC53-4379-B963-DBBFA3A72F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D170427-EC53-4379-B963-DBBFA3A72F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D170427-EC53-4379-B963-DBBFA3A72F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D170427-EC53-4379-B963-DBBFA3A72F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
