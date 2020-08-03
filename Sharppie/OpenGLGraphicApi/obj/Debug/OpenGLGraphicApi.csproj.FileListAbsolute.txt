@@ -1,0 +1,10 @@
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\bin\Debug\OpenGLGraphicApi.exe
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\bin\Debug\OpenGLGraphicApi.pdb
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\bin\Debug\Tao.FreeGlut.dll
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\bin\Debug\OpenGL.dll.config
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\obj\Debug\OpenGLGraphicApi.csprojAssemblyReference.cache
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\obj\Debug\OpenGLGraphicApi.csproj.CoreCompileInputs.cache
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\obj\Debug\OpenGLGraphicApi.csproj.CopyComplete
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\obj\Debug\OpenGLGraphicApi.exe
+C:\Users\alvmi\Documents\GitHub\openglcsharp\Sharppie\OpenGLGraphicApi\obj\Debug\OpenGLGraphicApi.pdb

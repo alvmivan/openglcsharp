@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11cb5710-055e-423b-a2cd-989379f2e62b" name="Default Changelist" comment="fix references issues">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestOpenGL/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EngineDomain/EngineDomain.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EngineDomain/Maths/Vector3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EngineDomain/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EngineDomain/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EngineDomain/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/OpenGLGraphicApi.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Rendering/Camera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Rendering/Renderer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Rendering/SceneObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/Rendering/Shaders.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/OpenGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/OpenGL.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/OpenGLTutorial1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/Tao.FreeGlut.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/Tao.FreeGlut.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/bin/Debug/freeglut.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/libs/OpenGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/libs/OpenGL.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/libs/Tao.FreeGlut.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/libs/Tao.FreeGlut.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/libs/freeglut.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/obj/Debug/TestOpenGL.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/obj/Debug/TestOpenGL.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenGLGraphicApi/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenGL.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenGL.sln.DotSettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOpenGL.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityBridge/MonoBehaviour1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityBridge/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityBridge/UnityBridge.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityBridge/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/OpenGL.Net.0.8.4.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/monoandroid/OpenGL.Net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/monoandroid/OpenGL.Net.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net35/OpenGL.Net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net35/OpenGL.Net.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net35/OpenGL.Net.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net461/OpenGL.Net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net461/OpenGL.Net.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/OpenGL.Net.0.8.4/lib/net461/OpenGL.Net.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/d9/d8346d4f/VBO`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/5e/7eba7745/Matrix4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/20/ae4725b6/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/fb/b212a129/ProgramParam.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../opengl4tutorials/OpenGLTutorial2/OpenGLTutorial2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/af/cee533cb/BeginMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C6E64303-BD5B-4B5F-A5AE-8C9ACBBC5912/9d/d30eb1d8/Glut.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/f8/87ebe457/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/8DE8D4D8-CBDB-472A-B310-611EDD526657/db/b78c93b5/02000005pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/8DE8D4D8-CBDB-472A-B310-611EDD526657/8f/3f18209b/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/86/22ded908/ShaderProgram.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/8DE8D4D8-CBDB-472A-B310-611EDD526657/18/8d766d3c/02000003pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/502D9149-9D31-4919-A7CC-8CF2931A0182/4e/88efd39f/Gl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/FBA1DD7A-E019-4480-A51C-58264FBC39C7/7a/9b313627/020001C5.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/20/d91e5468/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FBA1DD7A-E019-4480-A51C-58264FBC39C7/9a/eb0afdd5/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestOpenGL/Shaders/ShaderProvider.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/Rendering/Camera.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/Program.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/Rendering/Shaders.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/Rendering/Renderer.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/Rendering/SceneObject.cs" />
+        <option value="$PROJECT_DIR$/TestOpenGL/.gitignore" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
+        <option value="$PROJECT_DIR$/EngineDomain/Program.cs" />
+        <option value="$PROJECT_DIR$/UnityBridge/MonoBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/EngineDomain/Math/Vector3.cs" />
+        <option value="$PROJECT_DIR$/EngineDomain/Maths/Vector3.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fTxcLTD5kVShyz1iLKmLdVRtlo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected=".NET Project.TestOpenGL">
+    <configuration name="TestOpenGL" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OpenGLGraphicApi/OpenGLGraphicApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11cb5710-055e-423b-a2cd-989379f2e62b" name="Default Changelist" comment="" />
+      <created>1596255961836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596255961836</updated>
+      <workItem from="1596255965752" duration="4640000" />
+      <workItem from="1596417143219" duration="2624000" />
+    </task>
+    <task id="LOCAL-00001" summary="Levanto el proyecto con una ventana vacia">
+      <created>1596256554494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596256554494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dibujo en la screen">
+      <created>1596260488088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596260488088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update ignore">
+      <created>1596260571581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596260571581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor">
+      <created>1596421200236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596421200236</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix references issues">
+      <created>1596421366112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596421366112</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Levanto el proyecto con una ventana vacia" />
+    <MESSAGE value="dibujo en la screen" />
+    <MESSAGE value="update ignore" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="fix references issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix references issues" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596260645072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596260645072" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596260645072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596260645072" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596260645072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596260645072" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596260645072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596260645072" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1596420378185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1596420378185" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596421670563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596421670563" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1596257201638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596257201638" />
+  </component>
+</project>
