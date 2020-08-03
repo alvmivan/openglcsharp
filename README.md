@@ -1,1 +1,1 @@
-# Open GL Rendering using C# binder
+# Tinny Game Engine Using C#
